@@ -6,7 +6,7 @@ public class Main {
         post.surname = "Чехов";
         post.patronymic = "Павлович";
         post.passport = "1234 № 567890";
-        post.phone = "+7(123) 456-78-09";
+        post.phone = "+7(123) 987-65-43";
         post.subscription = true;
         post.birthday = new FormDate();
         post.birthday.day = 29;
